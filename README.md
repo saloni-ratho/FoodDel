@@ -1,8 +1,6 @@
 # 🍽️ Food Delivery Website - Frontend (React.js)
 
-This is the **frontend** of a Food Delivery Web App built using **React.js**. It provides a modern and responsive user interface where customers can browse food items, add them to cart, and place orders. Designed to connect with a backend (Node.js/Express API) for full functionality.
-
----
+This is the **frontend** of a Food Delivery Web App built using **React.js**. It provides a modern and responsive user interface where customers can browse food items, add them to cart, and place orders. 
 
 ## 🔗 Live Preview
 
